@@ -1,4 +1,4 @@
-# ehma : Electronic Health Management System 👋
+# ehmapp : Electronic Health Management System 👋
 
 This is a Mobile+WEB app built with React Native,TypeScript,MySQL. 
 
