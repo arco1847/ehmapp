@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋(Electronic Health Management System)
+# ehma : Electronic Health Management System 👋
 
 This is a Mobile+WEB app built with React Native,TypeScript,MySQL. 
 
